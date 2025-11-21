@@ -1,0 +1,5 @@
+discord.py
+python-dotenv
+watchdog
+google-generativeai
+google-genai
